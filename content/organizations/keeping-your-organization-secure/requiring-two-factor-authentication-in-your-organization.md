@@ -1,6 +1,6 @@
 ---
-title: Requiring two-factor authentication in your organization
-intro: 'Organization owners can require {% ifversion fpt %}organization members, outside collaborators, and billing managers{% else %}organization members and outside collaborators{% endif %} to enable two-factor authentication for their personal accounts, making it harder for malicious actors to access an organization''s repositories and settings.'
+title: Requiring two-factor authentication in onenterprise organization
+intro: 'Organization owner can require {% ifversion fpt %}organization members, outside collaborators, and billing managers{% else %}organization members and outside collaborators{% endif %} to enable two-factor authentication for their personal accounts, making it harder for malicious actors to access an organization''s repositories and settings.'
 redirect_from:
   - /articles/requiring-two-factor-authentication-in-your-organization
   - /github/setting-up-and-managing-organizations-and-teams/requiring-two-factor-authentication-in-your-organization
