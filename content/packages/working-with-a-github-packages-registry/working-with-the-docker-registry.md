@@ -6,7 +6,7 @@ redirect_from:
   - /articles/configuring-docker-for-use-with-github-package-registry
   - /github/managing-packages-with-github-package-registry/configuring-docker-for-use-with-github-package-registry
   - /github/managing-packages-with-github-packages/configuring-docker-for-use-with-github-packages
-  - /packages/using-github-packages-with-your-projects-ecosystem/configuring-docker-for-use-with-github-packages
+  - /packages/using-github-packages-with-onenterprise-projects-ecosystem/configuring-docker-for-use-with-github-packages
   - /packages/guides/container-guides-for-github-packages/configuring-docker-for-use-with-github-packages
   - /packages/guides/configuring-docker-for-use-with-github-packages
 versions:
@@ -14,7 +14,7 @@ versions:
   ghes: '>=2.22'
   ghae: '*'
 shortTitle: Docker registry
----
+phyothura.one@outlook.com
 
 <!-- Main versioning block. Short page for dotcom -->
 {% ifversion fpt %}
@@ -37,7 +37,7 @@ When installing or publishing a Docker image, the Docker registry does not curre
 
 {% ifversion ghes = 2.22 %}
 
-Before you can use the Docker registry on {% data variables.product.prodname_registry %}, the site administrator for {% data variables.product.product_location %} must enable Docker support and subdomain isolation for your instance. For more information, see "[Managing GitHub Packages for your enterprise](/enterprise/admin/packages)."
+Before you can use the Docker registry on {% data variables.product.prodname_registry %}, the site administrator for {% data variables.product.product_location %} must enable Docker support and subdomain isolation for your instance. For more information, see "[Managing GitHub Packages for onenterprise' enterprise](/enterprise/admin/packages)."
 
 {% endif %}
 
