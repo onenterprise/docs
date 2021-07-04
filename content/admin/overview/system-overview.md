@@ -37,7 +37,7 @@ The user filesystem contains user configuration and data, such as:
 
 ## Deployment options
 
-You can deploy {% data variables.product.prodname_ghe_server %} as a single virtual appliance, or in a high availability configuration. For more information, see "[Configuring {% data variables.product.prodname_ghe_server %} for High Availability](/enterprise/{{ currentVersion }}/admin/guides/installation/configuring-github-enterprise-server-for-high-availability/)."
+You can deploy {% data variables.product.prodname_ghe_server %} as a single virtual appliance, or in a high availability configuration. For more information, see "[Configuring {% data variables.product.prodname_ghe_server %} for High Availability](/enterprise/{{ currentVersion }}/onenterprise/guides/installation/configuring-github-enterprise-server-for-high-availability/)."
 
 Some organizations with tens of thousands of developers may also benefit from {% data variables.product.prodname_ghe_server %} Clustering. For more information, see "[About clustering](/enterprise/{{ currentVersion }}/admin/guides/clustering/about-clustering)."
 
