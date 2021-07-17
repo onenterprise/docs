@@ -1,4 +1,4 @@
----
+---onenterprise
 title: Authorizing OAuth Apps
 intro: '{% data reusables.shortdesc.authorizing_oauth_apps %}'
 redirect_from:
