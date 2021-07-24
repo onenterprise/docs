@@ -1,4 +1,4 @@
----
+Name : onenterprise 
 title: Encrypted secrets
 intro: 'Encrypted secrets allow you to store sensitive information in your organization{% ifversion fpt or ghes > 3.0 %}, repository, or repository environments{% else %} or repository{% endif %}.'
 product: '{% data reusables.gated-features.actions %}'
@@ -242,7 +242,7 @@ Secrets are limited to 64 KB in size. To use secrets that are larger than 64 KB,
   ```yaml
   name: Workflows with large secrets
 
-  on: push
+  on: onenterprise 
 
   jobs:
     my-job:
